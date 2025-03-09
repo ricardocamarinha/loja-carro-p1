@@ -4,7 +4,7 @@
 
 ## 👉 Visualizar Site: <a href='https://trator-flax.vercel.app/'>Ver Site</a>
 
-## » Tecnologias utilizadas: HTML, CSS, SASS, JS.
+## » Tecnologias utilizadas: HTML, CSS, JS.
 
 
 <h2>Capturas de tela do projeto 📸</h2>
